@@ -2,6 +2,9 @@
 
 This is my personal readme for the console records application I built. It details the libraries I used, their purpose, the functionalities of the application, and the things I learned along the way.
 
+![ScreenShot](./screenshots/start.png)
+
+
 ## Libraries Used
 
 - `<stdio.h>`: Provided functions for getting user input (`scanf`) and displaying information (`printf`).
@@ -22,6 +25,9 @@ Each library played a specific role:
 
 ## What This Application Can Do
 
+![ScreenShot](./screenshots/records.png)
+
+
 ### File Management
 
 - Create new data files.
@@ -36,6 +42,9 @@ Each library played a specific role:
 - Edit existing records to keep things accurate.
 - Insert new records into the data file, keeping things organized (sorted or unsorted, depending on your preference).
 - Sort records based on different criteria (name, area, population) with your choice of order (ascending or descending).
+
+![ScreenShot](./screenshots/sorting.png)
+
 
 ## What I Learned
 
