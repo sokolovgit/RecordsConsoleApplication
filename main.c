@@ -18,11 +18,11 @@
 #define BOLD_TEXT "\x1b[1m"
 #define ITALIC_TEXT "\x1b[3m"
 
-#define GREEN_TEXT "\x1b[32m"
-#define BLACK_TEXT "\x1b[37m"
+#define GREEN_TEXT "\x1b[92m"
+#define BLACK_TEXT "\x1b[30m"
 
-#define GREEN_BG "\x1b[42m"
-#define BLACK_BG "\x1b[47m"
+#define GREEN_BG "\x1b[102m"
+#define BLACK_BG "\x1b[40m"
 
 #define NOT_INTERACTIVE (-1)
 
