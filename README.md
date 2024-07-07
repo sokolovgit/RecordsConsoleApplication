@@ -72,5 +72,3 @@ This project was a great learning experience! I explored:
 - The application uses a designated folder (`./files`) to store all your data files.
 - The code includes error handling to catch potential issues during file operations and user input validation.
 - The interface is designed to be user-friendly, with a menu system and keyboard navigation for a smooth experience.
-
-This readme provides a high-level overview of the console records application. Feel free to explore the source code for a deeper dive into the implementation details.
